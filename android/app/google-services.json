@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842993379936",
+    "project_id": "e-learning-bad45",
+    "storage_bucket": "e-learning-bad45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842993379936:android:d102ab763f6a4fb2727105",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842993379936-02clv6hh7f7t6adp66rird4rj6lntbjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SA1_KVg99fyYhpUdEheCITug-A3HMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842993379936-02clv6hh7f7t6adp66rird4rj6lntbjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
