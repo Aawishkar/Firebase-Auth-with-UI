@@ -1,4 +1,4 @@
-# elearning
+# Firebase Auth with UI
 
 A new Flutter project.
 
